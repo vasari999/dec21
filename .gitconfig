@@ -1,0 +1,5 @@
+[user]
+	name = vasari
+	email = vasariakhil.marolix@gmail.com
+[safe]
+	directory = /home/ec2-user

@@ -1,0 +1,2 @@
+aws version
+sudo su
