@@ -13,3 +13,11 @@ git config --global --add safe.directory /home/ec2-user
 git add .
 git update
 sudo su
+ls
+git status
+vi .gitignore
+ls
+git status
+git branch
+git branch train
+sudo su
